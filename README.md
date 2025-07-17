@@ -64,8 +64,11 @@
 </p>
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/kauansrodrigues-440a2915b/" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kauansrodrigues/" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/kauansrodrigues/" title="LinkedIn" target="_blank">
+    <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
+
   
 
 <div align="center">
