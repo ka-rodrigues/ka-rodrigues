@@ -6,7 +6,7 @@
 
 ## Sobre mim
 
-- 🎓 Cursando Ciência da Computação.
+- 🎓 Cursando Ciência da Computação na Universidade Paulista.
 - 📚 Estudando Python, SQL, Machine Learning, e AWS.
 - 🌍 Explorando novas tecnologias e começando a conhecer soluções baseadas em dados.
 
@@ -48,8 +48,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Atualmente estou cursando <strong>Ciência da Computação</strong> na Universidade Paulista. <br><br>
-  Tenho me aprofundado em <strong>Python</strong> e venho explorando tecnologias como <strong>Power BI</strong>, <strong>AWS</strong>, e <strong>MySQL</strong>, aplicando esses conhecimentos em projetos acadêmicos e pessoais. <br><br>
+  Atualmente, tenho me aprofundado em <strong>Python</strong> e venho explorando tecnologias como <strong>Power BI</strong>, <strong>AWS</strong>, e <strong>MySQL</strong>, aplicando esses conhecimentos em projetos acadêmicos e pessoais. <br><br>
   Acredito que aprender construindo é o melhor caminho, e por isso transformo teoria em prática sempre que possível 🚀
 </p>
 
